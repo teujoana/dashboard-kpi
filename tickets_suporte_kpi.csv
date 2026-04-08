@@ -1,0 +1,501 @@
+Ticket_ID,Data_Criacao,Categoria,Prioridade,Canal,Agente,Status,FCR,Tempo_Resposta_Horas,Tempo_Resolucao_Horas,Satisfacao_Cliente
+TKT-1000,2024-02-13 10:57:00,Erro de Sistema,Média,Chat,Agente 2,Resolvido,Não,13.22,20.25,5
+TKT-1001,2024-03-28 13:37:00,Acesso,Urgente,Telefone,Agente 2,Fechado,Sim,1.37,1.37,4
+TKT-1002,2024-03-25 16:08:00,Dúvida de Uso,Média,WhatsApp,Agente 3,Resolvido,Não,23.52,69.85,1
+TKT-1003,2024-03-27 10:52:00,Dúvida de Uso,Média,E-mail,Agente 2,Resolvido,Não,10.56,32.37,5
+TKT-1004,2024-03-08 15:52:00,Cadastro,Alta,E-mail,Agente 2,Fechado,Sim,0.1,0.1,5
+TKT-1005,2024-03-15 15:45:00,Erro de Sistema,Baixa,Telefone,Joana Cardoso,Pendente,Sim,1.45,1.45,2
+TKT-1006,2024-03-17 16:12:00,Cadastro,Baixa,Chat,Joana Cardoso,Pendente,Não,8.24,14.87,3
+TKT-1007,2024-01-23 10:53:00,Cadastro,Urgente,E-mail,Agente 3,Resolvido,Não,16.28,47.39,2
+TKT-1008,2024-02-04 12:31:00,Financeiro,Baixa,E-mail,Agente 2,Resolvido,Não,19.51,35.87,5
+TKT-1009,2024-03-14 18:19:00,Erro de Sistema,Média,E-mail,Joana Cardoso,Resolvido,Não,16.13,61.45,4
+TKT-1010,2024-02-06 16:32:00,Acesso,Urgente,Telefone,Joana Cardoso,Pendente,Sim,0.56,0.56,2
+TKT-1011,2024-03-29 14:34:00,Financeiro,Urgente,Telefone,Joana Cardoso,Pendente,Sim,0.54,0.54,5
+TKT-1012,2024-03-05 12:59:00,Cadastro,Urgente,Telefone,Agente 2,Fechado,Sim,0.29,0.29,4
+TKT-1013,2024-03-07 17:52:00,Dúvida de Uso,Alta,WhatsApp,Agente 3,Pendente,Sim,1.45,1.45,5
+TKT-1014,2024-03-02 17:10:00,Erro de Sistema,Baixa,E-mail,Joana Cardoso,Resolvido,Sim,1.97,1.97,3
+TKT-1015,2024-01-13 12:09:00,Cadastro,Baixa,Chat,Joana Cardoso,Resolvido,Sim,1.67,1.67,4
+TKT-1016,2024-03-14 18:22:00,Dúvida de Uso,Alta,WhatsApp,Agente 3,Pendente,Sim,1.64,1.64,1
+TKT-1017,2024-03-19 18:40:00,Cadastro,Média,WhatsApp,Agente 2,Fechado,Sim,1.64,1.64,4
+TKT-1018,2024-01-27 08:03:00,Cadastro,Urgente,Telefone,Agente 3,Fechado,Sim,1.49,1.49,1
+TKT-1019,2024-01-02 16:01:00,Financeiro,Baixa,WhatsApp,Agente 3,Pendente,Sim,1.44,1.44,3
+TKT-1020,2024-02-19 14:24:00,Acesso,Alta,Chat,Joana Cardoso,Resolvido,Não,5.32,34.07,2
+TKT-1021,2024-03-14 14:37:00,Erro de Sistema,Média,Telefone,Agente 3,Fechado,Sim,0.15,0.15,4
+TKT-1022,2024-01-11 11:40:00,Cadastro,Alta,Telefone,Joana Cardoso,Pendente,Não,18.46,60.53,5
+TKT-1023,2024-02-08 11:38:00,Financeiro,Urgente,E-mail,Agente 2,Pendente,Sim,0.57,0.57,2
+TKT-1024,2024-01-31 13:12:00,Acesso,Alta,WhatsApp,Agente 3,Resolvido,Não,20.85,34.96,3
+TKT-1025,2024-01-10 14:49:00,Dúvida de Uso,Baixa,E-mail,Agente 3,Pendente,Sim,1.31,1.31,3
+TKT-1026,2024-01-22 09:50:00,Cadastro,Urgente,Telefone,Agente 3,Resolvido,Não,14.93,58.85,2
+TKT-1027,2024-01-09 11:08:00,Financeiro,Urgente,WhatsApp,Joana Cardoso,Pendente,Sim,1.91,1.91,2
+TKT-1028,2024-01-15 10:13:00,Dúvida de Uso,Média,WhatsApp,Agente 2,Fechado,Sim,0.58,0.58,1
+TKT-1029,2024-01-02 13:04:00,Dúvida de Uso,Média,WhatsApp,Agente 2,Pendente,Sim,2.0,2.0,5
+TKT-1030,2024-01-31 16:31:00,Dúvida de Uso,Urgente,Telefone,Agente 2,Fechado,Sim,1.11,1.11,2
+TKT-1031,2024-02-25 09:07:00,Cadastro,Baixa,WhatsApp,Joana Cardoso,Fechado,Sim,1.13,1.13,5
+TKT-1032,2024-01-03 11:03:00,Cadastro,Média,E-mail,Agente 3,Fechado,Sim,0.45,0.45,4
+TKT-1033,2024-01-05 17:33:00,Financeiro,Urgente,E-mail,Agente 3,Resolvido,Não,10.6,45.74,2
+TKT-1034,2024-01-21 09:40:00,Acesso,Baixa,E-mail,Joana Cardoso,Pendente,Sim,1.13,1.13,2
+TKT-1035,2024-01-20 16:58:00,Financeiro,Baixa,Chat,Agente 3,Pendente,Não,10.4,48.64,1
+TKT-1036,2024-03-16 18:54:00,Erro de Sistema,Alta,E-mail,Agente 2,Fechado,Não,14.59,61.03,1
+TKT-1037,2024-03-05 12:03:00,Acesso,Média,Chat,Agente 2,Pendente,Sim,1.6,1.6,1
+TKT-1038,2024-02-21 15:07:00,Erro de Sistema,Média,Telefone,Agente 3,Pendente,Sim,0.3,0.3,2
+TKT-1039,2024-02-01 18:19:00,Acesso,Urgente,Chat,Joana Cardoso,Fechado,Sim,1.36,1.36,2
+TKT-1040,2024-02-23 18:11:00,Financeiro,Alta,Telefone,Joana Cardoso,Resolvido,Sim,0.65,0.65,5
+TKT-1041,2024-01-25 18:51:00,Financeiro,Urgente,Chat,Agente 3,Fechado,Sim,0.47,0.47,3
+TKT-1042,2024-01-29 14:42:00,Erro de Sistema,Média,E-mail,Agente 2,Resolvido,Sim,1.64,1.64,4
+TKT-1043,2024-01-24 18:34:00,Acesso,Alta,WhatsApp,Agente 2,Pendente,Não,18.7,56.32,5
+TKT-1044,2024-01-06 14:04:00,Dúvida de Uso,Baixa,Telefone,Agente 3,Pendente,Não,10.19,47.43,2
+TKT-1045,2024-02-17 13:55:00,Financeiro,Média,WhatsApp,Joana Cardoso,Pendente,Sim,0.66,0.66,5
+TKT-1046,2024-03-18 11:09:00,Dúvida de Uso,Urgente,Telefone,Agente 3,Resolvido,Sim,1.66,1.66,4
+TKT-1047,2024-03-20 17:00:00,Cadastro,Alta,Chat,Agente 2,Fechado,Sim,0.11,0.11,1
+TKT-1048,2024-02-27 16:48:00,Dúvida de Uso,Média,Telefone,Joana Cardoso,Resolvido,Sim,1.28,1.28,2
+TKT-1049,2024-01-11 09:45:00,Erro de Sistema,Média,WhatsApp,Agente 2,Pendente,Sim,0.81,0.81,1
+TKT-1050,2024-01-06 10:27:00,Acesso,Alta,E-mail,Joana Cardoso,Fechado,Sim,0.54,0.54,3
+TKT-1051,2024-02-18 14:02:00,Dúvida de Uso,Média,Chat,Agente 2,Resolvido,Sim,0.92,0.92,1
+TKT-1052,2024-01-30 15:34:00,Financeiro,Baixa,E-mail,Agente 3,Fechado,Sim,0.29,0.29,3
+TKT-1053,2024-03-11 08:27:00,Acesso,Alta,E-mail,Agente 2,Pendente,Não,15.27,24.71,4
+TKT-1054,2024-01-25 09:22:00,Cadastro,Baixa,Chat,Agente 2,Pendente,Não,21.63,35.16,3
+TKT-1055,2024-01-31 15:14:00,Erro de Sistema,Média,Chat,Agente 2,Fechado,Não,16.08,19.96,1
+TKT-1056,2024-02-01 11:17:00,Financeiro,Baixa,Chat,Agente 3,Pendente,Sim,0.3,0.3,3
+TKT-1057,2024-02-24 18:40:00,Cadastro,Alta,Chat,Agente 2,Pendente,Não,2.24,29.01,5
+TKT-1058,2024-01-05 10:42:00,Erro de Sistema,Média,WhatsApp,Agente 3,Pendente,Sim,0.34,0.34,5
+TKT-1059,2024-03-25 12:34:00,Erro de Sistema,Baixa,WhatsApp,Joana Cardoso,Pendente,Sim,1.63,1.63,3
+TKT-1060,2024-02-26 15:51:00,Erro de Sistema,Urgente,WhatsApp,Joana Cardoso,Resolvido,Sim,1.73,1.73,5
+TKT-1061,2024-01-31 10:08:00,Acesso,Alta,E-mail,Joana Cardoso,Fechado,Sim,1.48,1.48,4
+TKT-1062,2024-01-14 09:13:00,Financeiro,Alta,E-mail,Agente 3,Resolvido,Sim,0.32,0.32,5
+TKT-1063,2024-02-17 11:48:00,Erro de Sistema,Alta,E-mail,Agente 2,Pendente,Sim,0.31,0.31,3
+TKT-1064,2024-01-11 12:03:00,Dúvida de Uso,Urgente,E-mail,Joana Cardoso,Fechado,Não,22.58,29.63,4
+TKT-1065,2024-02-21 14:53:00,Financeiro,Urgente,E-mail,Joana Cardoso,Resolvido,Não,11.08,44.94,1
+TKT-1066,2024-01-25 11:40:00,Cadastro,Alta,E-mail,Joana Cardoso,Resolvido,Sim,1.61,1.61,5
+TKT-1067,2024-03-13 16:46:00,Cadastro,Baixa,WhatsApp,Joana Cardoso,Pendente,Sim,1.88,1.88,5
+TKT-1068,2024-02-18 17:17:00,Erro de Sistema,Alta,Chat,Joana Cardoso,Resolvido,Sim,1.15,1.15,5
+TKT-1069,2024-01-02 12:56:00,Cadastro,Alta,Chat,Agente 2,Resolvido,Sim,0.54,0.54,1
+TKT-1070,2024-03-24 17:54:00,Acesso,Urgente,E-mail,Agente 3,Fechado,Sim,1.0,1.0,5
+TKT-1071,2024-02-17 10:26:00,Erro de Sistema,Urgente,Telefone,Agente 3,Resolvido,Não,9.13,56.06,5
+TKT-1072,2024-02-09 08:18:00,Erro de Sistema,Alta,Chat,Agente 2,Pendente,Não,23.86,27.85,5
+TKT-1073,2024-01-18 12:22:00,Cadastro,Alta,E-mail,Agente 3,Fechado,Sim,1.41,1.41,5
+TKT-1074,2024-03-21 13:56:00,Erro de Sistema,Média,Telefone,Agente 2,Fechado,Sim,0.74,0.74,2
+TKT-1075,2024-01-03 15:40:00,Financeiro,Baixa,E-mail,Agente 2,Fechado,Sim,0.63,0.63,2
+TKT-1076,2024-01-27 14:09:00,Cadastro,Urgente,Telefone,Agente 2,Fechado,Não,10.9,13.39,3
+TKT-1077,2024-01-25 17:57:00,Financeiro,Baixa,E-mail,Agente 3,Fechado,Sim,0.49,0.49,3
+TKT-1078,2024-03-28 13:25:00,Financeiro,Baixa,Telefone,Agente 2,Pendente,Sim,1.89,1.89,2
+TKT-1079,2024-01-04 17:32:00,Erro de Sistema,Média,Telefone,Joana Cardoso,Resolvido,Sim,1.75,1.75,3
+TKT-1080,2024-01-31 18:16:00,Dúvida de Uso,Média,E-mail,Joana Cardoso,Fechado,Sim,0.72,0.72,4
+TKT-1081,2024-01-24 08:21:00,Financeiro,Alta,Chat,Agente 3,Resolvido,Sim,0.66,0.66,2
+TKT-1082,2024-03-25 13:43:00,Erro de Sistema,Urgente,WhatsApp,Agente 2,Fechado,Não,10.87,12.55,3
+TKT-1083,2024-01-11 13:22:00,Erro de Sistema,Média,WhatsApp,Agente 2,Fechado,Não,6.51,24.25,4
+TKT-1084,2024-03-12 12:11:00,Erro de Sistema,Baixa,Telefone,Agente 3,Fechado,Sim,1.42,1.42,1
+TKT-1085,2024-03-15 10:04:00,Acesso,Urgente,Telefone,Agente 2,Fechado,Sim,1.19,1.19,1
+TKT-1086,2024-01-04 18:04:00,Dúvida de Uso,Urgente,Telefone,Agente 2,Fechado,Sim,1.87,1.87,3
+TKT-1087,2024-01-17 13:55:00,Acesso,Média,E-mail,Agente 3,Fechado,Não,20.4,67.77,2
+TKT-1088,2024-02-04 11:28:00,Dúvida de Uso,Média,Chat,Joana Cardoso,Resolvido,Não,18.64,51.86,4
+TKT-1089,2024-01-30 10:25:00,Acesso,Média,E-mail,Agente 2,Resolvido,Sim,1.15,1.15,3
+TKT-1090,2024-01-04 08:23:00,Erro de Sistema,Média,E-mail,Joana Cardoso,Fechado,Sim,1.72,1.72,5
+TKT-1091,2024-02-17 12:44:00,Financeiro,Média,Telefone,Agente 3,Pendente,Não,9.65,25.82,5
+TKT-1092,2024-03-23 09:59:00,Erro de Sistema,Alta,WhatsApp,Agente 2,Pendente,Não,23.85,66.24,2
+TKT-1093,2024-03-09 08:52:00,Erro de Sistema,Urgente,E-mail,Agente 3,Resolvido,Sim,1.03,1.03,4
+TKT-1094,2024-02-06 18:26:00,Dúvida de Uso,Baixa,Telefone,Agente 2,Pendente,Sim,0.75,0.75,2
+TKT-1095,2024-03-12 08:58:00,Erro de Sistema,Urgente,WhatsApp,Joana Cardoso,Fechado,Sim,0.17,0.17,5
+TKT-1096,2024-01-16 14:34:00,Acesso,Média,WhatsApp,Joana Cardoso,Fechado,Sim,0.24,0.24,1
+TKT-1097,2024-01-19 08:35:00,Cadastro,Baixa,Telefone,Joana Cardoso,Pendente,Sim,0.59,0.59,5
+TKT-1098,2024-02-28 16:35:00,Erro de Sistema,Urgente,Telefone,Joana Cardoso,Fechado,Sim,0.24,0.24,4
+TKT-1099,2024-01-13 11:23:00,Dúvida de Uso,Média,Telefone,Agente 2,Resolvido,Sim,1.8,1.8,1
+TKT-1100,2024-03-22 18:31:00,Erro de Sistema,Urgente,E-mail,Joana Cardoso,Resolvido,Sim,1.9,1.9,2
+TKT-1101,2024-02-17 15:08:00,Acesso,Urgente,E-mail,Agente 2,Resolvido,Sim,1.82,1.82,1
+TKT-1102,2024-03-30 17:54:00,Acesso,Alta,Chat,Agente 2,Pendente,Sim,1.6,1.6,4
+TKT-1103,2024-01-17 16:18:00,Cadastro,Urgente,WhatsApp,Agente 3,Resolvido,Sim,0.4,0.4,3
+TKT-1104,2024-03-01 09:28:00,Dúvida de Uso,Média,Telefone,Agente 2,Resolvido,Sim,1.48,1.48,3
+TKT-1105,2024-01-05 10:58:00,Erro de Sistema,Baixa,E-mail,Agente 3,Resolvido,Sim,1.21,1.21,5
+TKT-1106,2024-02-13 13:00:00,Dúvida de Uso,Alta,Chat,Agente 2,Fechado,Não,18.33,63.56,4
+TKT-1107,2024-03-14 16:59:00,Dúvida de Uso,Baixa,Chat,Agente 2,Pendente,Sim,0.55,0.55,2
+TKT-1108,2024-02-08 14:42:00,Dúvida de Uso,Média,Chat,Joana Cardoso,Fechado,Sim,1.91,1.91,2
+TKT-1109,2024-03-20 11:42:00,Dúvida de Uso,Urgente,E-mail,Agente 3,Resolvido,Sim,1.78,1.78,5
+TKT-1110,2024-03-08 12:58:00,Erro de Sistema,Urgente,E-mail,Joana Cardoso,Resolvido,Sim,1.18,1.18,5
+TKT-1111,2024-02-20 15:57:00,Financeiro,Urgente,E-mail,Agente 3,Fechado,Sim,0.85,0.85,5
+TKT-1112,2024-01-18 15:37:00,Erro de Sistema,Alta,Telefone,Joana Cardoso,Fechado,Não,2.62,24.8,3
+TKT-1113,2024-03-18 12:23:00,Acesso,Média,Chat,Agente 2,Fechado,Não,13.38,55.56,1
+TKT-1114,2024-02-16 14:06:00,Dúvida de Uso,Média,WhatsApp,Agente 3,Resolvido,Sim,1.48,1.48,3
+TKT-1115,2024-01-22 09:18:00,Erro de Sistema,Alta,Chat,Joana Cardoso,Resolvido,Não,3.4,23.19,3
+TKT-1116,2024-03-20 10:52:00,Cadastro,Baixa,Chat,Agente 3,Pendente,Sim,1.74,1.74,3
+TKT-1117,2024-02-17 08:15:00,Dúvida de Uso,Média,Chat,Agente 2,Pendente,Sim,0.25,0.25,4
+TKT-1118,2024-02-21 08:29:00,Financeiro,Média,WhatsApp,Agente 3,Pendente,Não,2.94,11.48,1
+TKT-1119,2024-01-28 17:13:00,Financeiro,Média,E-mail,Joana Cardoso,Pendente,Não,14.19,23.22,1
+TKT-1120,2024-02-01 16:10:00,Cadastro,Média,Chat,Agente 2,Pendente,Não,19.47,41.97,4
+TKT-1121,2024-02-29 14:13:00,Dúvida de Uso,Alta,WhatsApp,Agente 3,Fechado,Sim,1.65,1.65,1
+TKT-1122,2024-02-29 08:47:00,Erro de Sistema,Urgente,Telefone,Joana Cardoso,Pendente,Sim,0.45,0.45,4
+TKT-1123,2024-01-05 09:07:00,Dúvida de Uso,Urgente,Chat,Joana Cardoso,Fechado,Sim,0.21,0.21,5
+TKT-1124,2024-01-26 08:45:00,Cadastro,Alta,Chat,Joana Cardoso,Pendente,Não,3.37,6.24,2
+TKT-1125,2024-03-29 18:22:00,Dúvida de Uso,Urgente,WhatsApp,Joana Cardoso,Pendente,Não,3.82,46.97,3
+TKT-1126,2024-03-23 13:27:00,Financeiro,Alta,E-mail,Agente 2,Fechado,Não,22.24,59.91,1
+TKT-1127,2024-03-25 17:36:00,Financeiro,Média,WhatsApp,Agente 3,Resolvido,Sim,1.6,1.6,1
+TKT-1128,2024-01-01 16:49:00,Financeiro,Alta,WhatsApp,Agente 3,Resolvido,Sim,1.93,1.93,2
+TKT-1129,2024-01-15 10:52:00,Financeiro,Baixa,Chat,Agente 2,Resolvido,Sim,1.56,1.56,1
+TKT-1130,2024-01-01 13:43:00,Dúvida de Uso,Média,WhatsApp,Joana Cardoso,Fechado,Sim,0.69,0.69,1
+TKT-1131,2024-03-23 11:29:00,Financeiro,Baixa,E-mail,Agente 2,Fechado,Não,9.07,40.35,4
+TKT-1132,2024-03-19 17:22:00,Financeiro,Média,E-mail,Agente 2,Fechado,Sim,1.66,1.66,2
+TKT-1133,2024-01-05 09:06:00,Acesso,Alta,Telefone,Agente 2,Resolvido,Não,18.23,63.79,2
+TKT-1134,2024-03-26 14:03:00,Financeiro,Baixa,Telefone,Joana Cardoso,Resolvido,Sim,0.69,0.69,2
+TKT-1135,2024-01-19 15:30:00,Cadastro,Alta,E-mail,Joana Cardoso,Fechado,Sim,0.14,0.14,1
+TKT-1136,2024-02-06 11:25:00,Cadastro,Baixa,Telefone,Joana Cardoso,Pendente,Sim,0.33,0.33,4
+TKT-1137,2024-01-18 17:24:00,Financeiro,Urgente,WhatsApp,Agente 3,Fechado,Sim,0.93,0.93,2
+TKT-1138,2024-03-01 14:43:00,Acesso,Média,E-mail,Joana Cardoso,Resolvido,Não,19.52,46.67,1
+TKT-1139,2024-01-01 15:24:00,Dúvida de Uso,Alta,Chat,Agente 2,Pendente,Sim,1.0,1.0,3
+TKT-1140,2024-02-16 13:37:00,Cadastro,Média,E-mail,Joana Cardoso,Pendente,Sim,0.72,0.72,3
+TKT-1141,2024-01-29 18:10:00,Cadastro,Média,Chat,Agente 3,Fechado,Sim,0.29,0.29,4
+TKT-1142,2024-03-13 09:37:00,Erro de Sistema,Média,E-mail,Joana Cardoso,Pendente,Sim,0.98,0.98,2
+TKT-1143,2024-01-18 09:02:00,Cadastro,Alta,E-mail,Agente 2,Fechado,Sim,0.59,0.59,2
+TKT-1144,2024-02-11 14:57:00,Dúvida de Uso,Baixa,Telefone,Agente 3,Pendente,Sim,0.12,0.12,5
+TKT-1145,2024-03-30 14:33:00,Financeiro,Alta,Chat,Agente 2,Resolvido,Sim,0.76,0.76,2
+TKT-1146,2024-03-21 13:06:00,Erro de Sistema,Baixa,Telefone,Joana Cardoso,Resolvido,Sim,1.91,1.91,3
+TKT-1147,2024-02-13 08:56:00,Cadastro,Baixa,E-mail,Agente 3,Resolvido,Não,6.31,8.08,3
+TKT-1148,2024-03-31 17:05:00,Cadastro,Média,Telefone,Agente 2,Fechado,Sim,0.64,0.64,3
+TKT-1149,2024-03-15 15:50:00,Dúvida de Uso,Média,Chat,Joana Cardoso,Pendente,Sim,0.54,0.54,2
+TKT-1150,2024-01-30 11:35:00,Acesso,Alta,Chat,Agente 2,Resolvido,Sim,1.32,1.32,4
+TKT-1151,2024-02-18 12:32:00,Dúvida de Uso,Alta,E-mail,Agente 2,Pendente,Sim,1.34,1.34,5
+TKT-1152,2024-02-19 11:49:00,Financeiro,Baixa,WhatsApp,Agente 2,Pendente,Não,15.23,54.36,5
+TKT-1153,2024-02-26 08:56:00,Dúvida de Uso,Alta,Telefone,Agente 3,Fechado,Não,6.96,47.44,1
+TKT-1154,2024-03-13 12:01:00,Acesso,Baixa,E-mail,Agente 3,Fechado,Sim,0.81,0.81,3
+TKT-1155,2024-02-24 15:52:00,Financeiro,Média,WhatsApp,Agente 2,Resolvido,Não,12.77,27.6,4
+TKT-1156,2024-02-11 12:12:00,Acesso,Média,WhatsApp,Agente 2,Resolvido,Sim,0.2,0.2,4
+TKT-1157,2024-03-06 11:23:00,Cadastro,Urgente,WhatsApp,Agente 3,Pendente,Sim,1.56,1.56,1
+TKT-1158,2024-01-23 13:38:00,Acesso,Média,Chat,Joana Cardoso,Fechado,Sim,1.62,1.62,4
+TKT-1159,2024-03-30 09:52:00,Acesso,Baixa,Chat,Agente 3,Fechado,Sim,1.54,1.54,5
+TKT-1160,2024-01-19 16:55:00,Financeiro,Alta,Chat,Joana Cardoso,Resolvido,Sim,0.42,0.42,1
+TKT-1161,2024-03-25 08:45:00,Acesso,Urgente,Chat,Joana Cardoso,Resolvido,Sim,0.86,0.86,5
+TKT-1162,2024-03-19 17:59:00,Acesso,Média,Telefone,Agente 2,Pendente,Não,7.48,50.19,4
+TKT-1163,2024-01-21 10:58:00,Financeiro,Urgente,WhatsApp,Joana Cardoso,Pendente,Sim,1.44,1.44,4
+TKT-1164,2024-03-23 16:23:00,Erro de Sistema,Média,Telefone,Agente 2,Pendente,Sim,0.81,0.81,3
+TKT-1165,2024-01-01 16:25:00,Cadastro,Alta,WhatsApp,Agente 2,Resolvido,Sim,0.38,0.38,2
+TKT-1166,2024-03-29 18:09:00,Dúvida de Uso,Média,Chat,Joana Cardoso,Fechado,Sim,0.37,0.37,4
+TKT-1167,2024-02-28 09:04:00,Dúvida de Uso,Alta,Chat,Agente 3,Resolvido,Não,17.54,55.81,3
+TKT-1168,2024-03-01 08:17:00,Acesso,Urgente,Chat,Joana Cardoso,Pendente,Sim,0.98,0.98,2
+TKT-1169,2024-02-26 18:49:00,Cadastro,Alta,E-mail,Joana Cardoso,Resolvido,Sim,0.97,0.97,4
+TKT-1170,2024-03-07 12:52:00,Dúvida de Uso,Urgente,Chat,Agente 3,Fechado,Sim,1.13,1.13,5
+TKT-1171,2024-02-29 10:41:00,Dúvida de Uso,Baixa,E-mail,Agente 3,Pendente,Sim,1.04,1.04,5
+TKT-1172,2024-01-15 18:51:00,Cadastro,Média,WhatsApp,Agente 2,Resolvido,Sim,0.39,0.39,1
+TKT-1173,2024-02-25 16:30:00,Cadastro,Urgente,WhatsApp,Agente 2,Pendente,Sim,1.52,1.52,1
+TKT-1174,2024-01-10 13:07:00,Erro de Sistema,Urgente,Telefone,Agente 2,Fechado,Não,2.85,4.06,1
+TKT-1175,2024-02-23 14:47:00,Erro de Sistema,Urgente,Telefone,Agente 2,Resolvido,Não,4.35,46.57,5
+TKT-1176,2024-01-04 18:42:00,Dúvida de Uso,Alta,E-mail,Agente 2,Resolvido,Sim,1.05,1.05,3
+TKT-1177,2024-03-13 09:38:00,Erro de Sistema,Baixa,Chat,Agente 2,Pendente,Não,16.29,53.83,2
+TKT-1178,2024-01-26 10:45:00,Erro de Sistema,Urgente,Telefone,Agente 2,Resolvido,Não,20.07,56.23,3
+TKT-1179,2024-02-01 17:59:00,Erro de Sistema,Baixa,Telefone,Agente 3,Fechado,Sim,0.51,0.51,3
+TKT-1180,2024-03-19 16:25:00,Financeiro,Alta,Telefone,Joana Cardoso,Fechado,Sim,1.86,1.86,4
+TKT-1181,2024-03-22 11:53:00,Erro de Sistema,Baixa,Telefone,Joana Cardoso,Fechado,Sim,0.21,0.21,2
+TKT-1182,2024-02-28 09:35:00,Acesso,Baixa,E-mail,Agente 3,Pendente,Sim,1.31,1.31,1
+TKT-1183,2024-02-11 15:51:00,Erro de Sistema,Alta,WhatsApp,Agente 2,Resolvido,Sim,1.8,1.8,4
+TKT-1184,2024-03-03 18:19:00,Acesso,Alta,E-mail,Joana Cardoso,Fechado,Não,4.38,9.26,2
+TKT-1185,2024-01-21 10:08:00,Dúvida de Uso,Alta,WhatsApp,Joana Cardoso,Fechado,Sim,1.93,1.93,3
+TKT-1186,2024-01-16 16:27:00,Financeiro,Baixa,E-mail,Agente 2,Pendente,Não,10.57,47.56,5
+TKT-1187,2024-02-16 12:32:00,Cadastro,Alta,WhatsApp,Joana Cardoso,Resolvido,Sim,0.72,0.72,4
+TKT-1188,2024-01-01 12:05:00,Acesso,Urgente,Chat,Joana Cardoso,Pendente,Sim,0.28,0.28,4
+TKT-1189,2024-03-27 14:19:00,Acesso,Média,Telefone,Joana Cardoso,Resolvido,Não,9.01,15.54,3
+TKT-1190,2024-01-15 12:23:00,Acesso,Urgente,Telefone,Agente 3,Pendente,Sim,1.41,1.41,3
+TKT-1191,2024-02-23 18:31:00,Financeiro,Baixa,WhatsApp,Joana Cardoso,Resolvido,Sim,0.87,0.87,4
+TKT-1192,2024-02-04 13:04:00,Cadastro,Média,E-mail,Agente 2,Resolvido,Sim,1.55,1.55,2
+TKT-1193,2024-02-02 17:05:00,Acesso,Média,Telefone,Agente 2,Resolvido,Não,17.83,32.75,1
+TKT-1194,2024-01-02 13:13:00,Financeiro,Média,E-mail,Agente 2,Fechado,Sim,0.75,0.75,2
+TKT-1195,2024-03-23 17:51:00,Acesso,Média,E-mail,Agente 3,Fechado,Não,7.74,23.31,4
+TKT-1196,2024-01-18 18:14:00,Cadastro,Média,E-mail,Joana Cardoso,Fechado,Não,3.58,24.38,1
+TKT-1197,2024-01-20 13:41:00,Erro de Sistema,Média,Telefone,Agente 2,Pendente,Sim,0.44,0.44,4
+TKT-1198,2024-03-15 08:17:00,Cadastro,Urgente,WhatsApp,Agente 2,Resolvido,Sim,1.27,1.27,3
+TKT-1199,2024-01-05 14:20:00,Erro de Sistema,Urgente,Telefone,Agente 2,Resolvido,Sim,1.49,1.49,1
+TKT-1200,2024-02-22 17:56:00,Cadastro,Urgente,Chat,Joana Cardoso,Resolvido,Não,19.64,62.42,2
+TKT-1201,2024-02-29 08:15:00,Acesso,Urgente,Chat,Agente 2,Resolvido,Sim,0.8,0.8,2
+TKT-1202,2024-01-21 18:54:00,Acesso,Baixa,WhatsApp,Agente 3,Fechado,Sim,1.37,1.37,2
+TKT-1203,2024-03-05 16:03:00,Financeiro,Alta,Telefone,Agente 3,Pendente,Não,4.58,13.96,3
+TKT-1204,2024-01-07 14:23:00,Dúvida de Uso,Alta,WhatsApp,Joana Cardoso,Pendente,Sim,0.84,0.84,2
+TKT-1205,2024-03-02 18:37:00,Cadastro,Urgente,E-mail,Joana Cardoso,Resolvido,Não,12.55,37.19,1
+TKT-1206,2024-03-31 10:08:00,Financeiro,Urgente,Telefone,Agente 2,Fechado,Não,9.96,32.8,1
+TKT-1207,2024-01-29 17:03:00,Dúvida de Uso,Média,Chat,Agente 3,Pendente,Sim,1.31,1.31,3
+TKT-1208,2024-03-11 16:33:00,Financeiro,Alta,Telefone,Agente 3,Pendente,Sim,1.23,1.23,4
+TKT-1209,2024-03-24 16:23:00,Acesso,Urgente,Telefone,Joana Cardoso,Resolvido,Não,11.24,54.17,4
+TKT-1210,2024-01-03 12:06:00,Financeiro,Média,Chat,Agente 3,Resolvido,Sim,0.86,0.86,1
+TKT-1211,2024-01-21 12:12:00,Cadastro,Alta,WhatsApp,Agente 3,Resolvido,Sim,1.1,1.1,3
+TKT-1212,2024-03-30 08:43:00,Financeiro,Urgente,WhatsApp,Joana Cardoso,Resolvido,Sim,1.09,1.09,5
+TKT-1213,2024-01-08 10:31:00,Erro de Sistema,Alta,Chat,Joana Cardoso,Fechado,Não,7.19,21.36,4
+TKT-1214,2024-03-11 14:32:00,Financeiro,Alta,Telefone,Agente 3,Fechado,Não,19.84,23.04,5
+TKT-1215,2024-01-07 10:18:00,Financeiro,Baixa,WhatsApp,Agente 3,Pendente,Sim,1.78,1.78,4
+TKT-1216,2024-02-21 09:41:00,Acesso,Urgente,E-mail,Agente 3,Fechado,Sim,1.06,1.06,1
+TKT-1217,2024-01-29 11:11:00,Acesso,Urgente,WhatsApp,Agente 2,Resolvido,Sim,0.99,0.99,1
+TKT-1218,2024-02-24 18:31:00,Cadastro,Urgente,E-mail,Agente 2,Resolvido,Sim,0.55,0.55,3
+TKT-1219,2024-03-08 17:14:00,Erro de Sistema,Média,WhatsApp,Agente 3,Pendente,Não,20.34,68.27,2
+TKT-1220,2024-03-28 08:52:00,Cadastro,Baixa,Telefone,Joana Cardoso,Fechado,Sim,1.1,1.1,5
+TKT-1221,2024-02-08 17:14:00,Erro de Sistema,Alta,Telefone,Agente 2,Pendente,Sim,1.55,1.55,5
+TKT-1222,2024-03-25 11:06:00,Cadastro,Baixa,Chat,Agente 2,Resolvido,Sim,1.02,1.02,3
+TKT-1223,2024-03-30 12:31:00,Erro de Sistema,Alta,Telefone,Agente 2,Pendente,Sim,0.54,0.54,1
+TKT-1224,2024-01-05 18:51:00,Erro de Sistema,Alta,WhatsApp,Joana Cardoso,Resolvido,Não,13.46,38.98,5
+TKT-1225,2024-02-10 15:37:00,Cadastro,Baixa,Chat,Agente 2,Fechado,Sim,1.73,1.73,2
+TKT-1226,2024-02-17 12:43:00,Dúvida de Uso,Média,WhatsApp,Agente 2,Pendente,Não,6.01,52.04,5
+TKT-1227,2024-03-10 11:30:00,Financeiro,Média,WhatsApp,Agente 3,Resolvido,Não,7.73,13.25,2
+TKT-1228,2024-03-01 12:08:00,Erro de Sistema,Baixa,E-mail,Agente 2,Fechado,Sim,1.13,1.13,3
+TKT-1229,2024-01-18 17:33:00,Dúvida de Uso,Alta,Chat,Agente 3,Fechado,Não,15.12,51.85,4
+TKT-1230,2024-03-08 15:57:00,Cadastro,Média,WhatsApp,Agente 2,Pendente,Sim,0.6,0.6,5
+TKT-1231,2024-01-26 08:25:00,Dúvida de Uso,Média,WhatsApp,Agente 2,Resolvido,Não,9.29,22.75,3
+TKT-1232,2024-03-30 09:34:00,Acesso,Urgente,Chat,Agente 2,Pendente,Sim,1.77,1.77,3
+TKT-1233,2024-02-13 14:09:00,Cadastro,Alta,E-mail,Agente 3,Resolvido,Sim,1.75,1.75,4
+TKT-1234,2024-01-03 17:45:00,Financeiro,Média,WhatsApp,Agente 3,Fechado,Não,15.17,61.53,5
+TKT-1235,2024-02-06 16:28:00,Financeiro,Média,Telefone,Joana Cardoso,Fechado,Sim,1.32,1.32,2
+TKT-1236,2024-03-10 13:05:00,Financeiro,Baixa,Telefone,Agente 3,Resolvido,Sim,0.57,0.57,5
+TKT-1237,2024-01-29 18:31:00,Erro de Sistema,Urgente,WhatsApp,Agente 2,Pendente,Sim,0.63,0.63,4
+TKT-1238,2024-01-13 08:58:00,Dúvida de Uso,Urgente,Chat,Joana Cardoso,Fechado,Sim,0.72,0.72,2
+TKT-1239,2024-03-24 10:02:00,Cadastro,Baixa,Telefone,Agente 2,Pendente,Sim,1.42,1.42,4
+TKT-1240,2024-03-29 18:15:00,Financeiro,Urgente,WhatsApp,Agente 2,Pendente,Não,20.61,32.52,5
+TKT-1241,2024-03-23 10:29:00,Financeiro,Baixa,E-mail,Joana Cardoso,Fechado,Sim,0.35,0.35,1
+TKT-1242,2024-01-01 15:50:00,Erro de Sistema,Baixa,Telefone,Agente 2,Pendente,Sim,0.69,0.69,3
+TKT-1243,2024-03-29 14:57:00,Dúvida de Uso,Baixa,Telefone,Joana Cardoso,Pendente,Sim,1.13,1.13,1
+TKT-1244,2024-03-27 08:16:00,Dúvida de Uso,Média,Telefone,Agente 3,Resolvido,Sim,0.74,0.74,1
+TKT-1245,2024-02-22 14:54:00,Erro de Sistema,Urgente,Chat,Agente 3,Pendente,Sim,1.44,1.44,1
+TKT-1246,2024-03-21 11:14:00,Financeiro,Urgente,Chat,Joana Cardoso,Resolvido,Sim,1.19,1.19,4
+TKT-1247,2024-03-10 11:19:00,Erro de Sistema,Baixa,Telefone,Agente 2,Resolvido,Sim,1.5,1.5,5
+TKT-1248,2024-02-01 12:15:00,Cadastro,Alta,WhatsApp,Agente 2,Fechado,Sim,1.46,1.46,4
+TKT-1249,2024-02-20 12:11:00,Cadastro,Média,Chat,Agente 3,Pendente,Sim,0.66,0.66,2
+TKT-1250,2024-01-14 14:28:00,Erro de Sistema,Média,Chat,Agente 2,Fechado,Sim,1.58,1.58,2
+TKT-1251,2024-02-02 15:27:00,Cadastro,Média,Chat,Agente 2,Resolvido,Sim,1.72,1.72,4
+TKT-1252,2024-02-06 15:36:00,Financeiro,Alta,Telefone,Agente 3,Pendente,Sim,0.78,0.78,2
+TKT-1253,2024-01-23 08:12:00,Acesso,Baixa,WhatsApp,Agente 2,Resolvido,Não,9.8,37.89,1
+TKT-1254,2024-02-10 12:18:00,Erro de Sistema,Urgente,E-mail,Joana Cardoso,Pendente,Sim,0.12,0.12,5
+TKT-1255,2024-03-07 11:54:00,Acesso,Baixa,WhatsApp,Joana Cardoso,Resolvido,Sim,1.14,1.14,1
+TKT-1256,2024-01-24 12:31:00,Financeiro,Urgente,WhatsApp,Agente 2,Fechado,Sim,0.49,0.49,1
+TKT-1257,2024-03-03 10:16:00,Financeiro,Urgente,WhatsApp,Agente 3,Resolvido,Não,13.39,53.33,1
+TKT-1258,2024-02-09 18:37:00,Dúvida de Uso,Baixa,Telefone,Agente 2,Pendente,Sim,0.81,0.81,2
+TKT-1259,2024-02-02 12:52:00,Dúvida de Uso,Baixa,E-mail,Agente 2,Resolvido,Sim,0.66,0.66,3
+TKT-1260,2024-02-16 14:36:00,Acesso,Urgente,WhatsApp,Agente 3,Resolvido,Sim,0.1,0.1,3
+TKT-1261,2024-03-08 14:17:00,Financeiro,Urgente,Chat,Joana Cardoso,Pendente,Não,11.36,28.42,1
+TKT-1262,2024-03-30 09:05:00,Erro de Sistema,Alta,E-mail,Agente 3,Resolvido,Sim,1.69,1.69,5
+TKT-1263,2024-03-13 16:43:00,Erro de Sistema,Alta,E-mail,Agente 2,Resolvido,Sim,0.71,0.71,2
+TKT-1264,2024-01-18 08:01:00,Acesso,Urgente,WhatsApp,Agente 2,Fechado,Sim,1.15,1.15,2
+TKT-1265,2024-02-13 09:33:00,Financeiro,Urgente,WhatsApp,Agente 2,Resolvido,Sim,0.59,0.59,5
+TKT-1266,2024-02-03 08:52:00,Cadastro,Urgente,Chat,Agente 2,Fechado,Sim,0.18,0.18,4
+TKT-1267,2024-02-01 16:27:00,Erro de Sistema,Alta,Chat,Agente 2,Fechado,Sim,1.67,1.67,4
+TKT-1268,2024-02-29 17:11:00,Dúvida de Uso,Urgente,Telefone,Agente 2,Fechado,Sim,0.84,0.84,4
+TKT-1269,2024-02-06 12:42:00,Financeiro,Baixa,Chat,Joana Cardoso,Resolvido,Sim,1.33,1.33,5
+TKT-1270,2024-03-19 16:10:00,Financeiro,Alta,Telefone,Agente 2,Pendente,Sim,1.95,1.95,3
+TKT-1271,2024-03-24 11:45:00,Dúvida de Uso,Baixa,Chat,Joana Cardoso,Pendente,Sim,1.5,1.5,2
+TKT-1272,2024-03-15 18:29:00,Cadastro,Baixa,WhatsApp,Agente 3,Fechado,Sim,0.23,0.23,5
+TKT-1273,2024-02-18 12:53:00,Dúvida de Uso,Alta,E-mail,Agente 3,Fechado,Sim,1.29,1.29,4
+TKT-1274,2024-02-10 14:46:00,Financeiro,Média,E-mail,Agente 2,Fechado,Sim,1.94,1.94,2
+TKT-1275,2024-02-06 18:34:00,Erro de Sistema,Urgente,WhatsApp,Joana Cardoso,Pendente,Não,2.45,8.36,1
+TKT-1276,2024-02-02 14:14:00,Dúvida de Uso,Média,WhatsApp,Agente 3,Fechado,Sim,0.85,0.85,5
+TKT-1277,2024-02-12 16:59:00,Erro de Sistema,Baixa,WhatsApp,Agente 3,Resolvido,Sim,0.48,0.48,2
+TKT-1278,2024-01-03 15:41:00,Financeiro,Urgente,Chat,Agente 2,Fechado,Não,15.91,59.92,3
+TKT-1279,2024-01-12 13:35:00,Cadastro,Baixa,Chat,Joana Cardoso,Fechado,Sim,1.32,1.32,4
+TKT-1280,2024-01-11 17:25:00,Financeiro,Urgente,Chat,Agente 2,Resolvido,Não,16.88,60.98,4
+TKT-1281,2024-01-03 10:06:00,Financeiro,Baixa,E-mail,Agente 2,Resolvido,Não,16.34,23.53,5
+TKT-1282,2024-02-27 14:09:00,Acesso,Urgente,WhatsApp,Joana Cardoso,Fechado,Não,5.78,50.49,5
+TKT-1283,2024-01-24 10:58:00,Erro de Sistema,Alta,Telefone,Agente 3,Resolvido,Sim,0.48,0.48,4
+TKT-1284,2024-01-03 10:58:00,Dúvida de Uso,Alta,Chat,Joana Cardoso,Resolvido,Sim,1.33,1.33,1
+TKT-1285,2024-01-29 14:05:00,Financeiro,Urgente,Telefone,Joana Cardoso,Pendente,Não,17.99,54.58,2
+TKT-1286,2024-03-25 15:36:00,Financeiro,Urgente,Telefone,Agente 2,Resolvido,Sim,1.07,1.07,2
+TKT-1287,2024-03-04 17:05:00,Acesso,Média,Chat,Agente 2,Fechado,Sim,0.57,0.57,5
+TKT-1288,2024-02-21 18:50:00,Erro de Sistema,Baixa,Chat,Joana Cardoso,Pendente,Sim,1.19,1.19,4
+TKT-1289,2024-01-14 12:25:00,Erro de Sistema,Urgente,Chat,Joana Cardoso,Fechado,Não,1.41,37.12,2
+TKT-1290,2024-01-16 17:53:00,Financeiro,Baixa,Telefone,Agente 2,Fechado,Sim,1.1,1.1,3
+TKT-1291,2024-02-19 17:57:00,Financeiro,Média,Chat,Joana Cardoso,Resolvido,Sim,0.58,0.58,4
+TKT-1292,2024-03-22 16:57:00,Acesso,Urgente,Chat,Agente 2,Pendente,Sim,1.61,1.61,1
+TKT-1293,2024-03-02 14:59:00,Erro de Sistema,Baixa,WhatsApp,Joana Cardoso,Resolvido,Não,8.99,40.39,3
+TKT-1294,2024-03-14 15:27:00,Erro de Sistema,Alta,Telefone,Agente 2,Fechado,Sim,1.36,1.36,4
+TKT-1295,2024-03-31 17:30:00,Financeiro,Urgente,WhatsApp,Agente 3,Pendente,Não,11.09,18.27,4
+TKT-1296,2024-02-25 17:15:00,Dúvida de Uso,Urgente,Telefone,Agente 3,Resolvido,Sim,0.21,0.21,4
+TKT-1297,2024-02-15 10:29:00,Erro de Sistema,Baixa,Telefone,Agente 3,Resolvido,Sim,0.72,0.72,5
+TKT-1298,2024-02-02 11:51:00,Erro de Sistema,Média,Chat,Joana Cardoso,Fechado,Sim,0.44,0.44,5
+TKT-1299,2024-01-19 14:58:00,Dúvida de Uso,Urgente,WhatsApp,Agente 2,Pendente,Sim,0.91,0.91,3
+TKT-1300,2024-02-12 08:24:00,Dúvida de Uso,Alta,E-mail,Joana Cardoso,Resolvido,Não,21.73,63.35,3
+TKT-1301,2024-01-17 08:01:00,Financeiro,Baixa,E-mail,Joana Cardoso,Fechado,Sim,0.9,0.9,2
+TKT-1302,2024-02-08 08:45:00,Financeiro,Urgente,Chat,Joana Cardoso,Pendente,Sim,1.25,1.25,3
+TKT-1303,2024-01-30 17:31:00,Cadastro,Média,WhatsApp,Agente 3,Pendente,Não,3.58,46.37,2
+TKT-1304,2024-01-30 17:45:00,Dúvida de Uso,Urgente,E-mail,Agente 2,Fechado,Sim,1.08,1.08,3
+TKT-1305,2024-01-21 16:00:00,Acesso,Urgente,Telefone,Joana Cardoso,Fechado,Sim,1.75,1.75,2
+TKT-1306,2024-03-18 14:00:00,Dúvida de Uso,Baixa,WhatsApp,Agente 2,Pendente,Sim,1.15,1.15,4
+TKT-1307,2024-02-13 16:24:00,Acesso,Baixa,Chat,Joana Cardoso,Pendente,Sim,1.99,1.99,4
+TKT-1308,2024-02-29 17:16:00,Financeiro,Média,Telefone,Agente 2,Pendente,Sim,1.82,1.82,2
+TKT-1309,2024-02-10 10:18:00,Acesso,Urgente,E-mail,Agente 3,Resolvido,Sim,1.96,1.96,3
+TKT-1310,2024-02-03 17:01:00,Financeiro,Baixa,WhatsApp,Agente 2,Resolvido,Sim,0.25,0.25,1
+TKT-1311,2024-01-07 14:04:00,Dúvida de Uso,Baixa,E-mail,Agente 2,Pendente,Sim,1.46,1.46,1
+TKT-1312,2024-01-04 10:08:00,Acesso,Alta,E-mail,Joana Cardoso,Resolvido,Sim,0.34,0.34,2
+TKT-1313,2024-02-11 17:51:00,Financeiro,Urgente,Telefone,Agente 3,Fechado,Sim,0.16,0.16,5
+TKT-1314,2024-02-16 15:33:00,Acesso,Alta,Chat,Agente 2,Pendente,Sim,1.48,1.48,2
+TKT-1315,2024-03-15 13:03:00,Acesso,Baixa,WhatsApp,Agente 3,Fechado,Não,19.07,46.28,5
+TKT-1316,2024-01-18 11:07:00,Erro de Sistema,Urgente,E-mail,Agente 2,Pendente,Sim,0.39,0.39,2
+TKT-1317,2024-02-15 18:16:00,Erro de Sistema,Alta,Chat,Agente 2,Resolvido,Sim,0.14,0.14,1
+TKT-1318,2024-03-02 14:42:00,Acesso,Alta,Telefone,Joana Cardoso,Fechado,Sim,1.52,1.52,5
+TKT-1319,2024-03-12 16:13:00,Financeiro,Alta,E-mail,Agente 3,Fechado,Sim,0.4,0.4,4
+TKT-1320,2024-01-05 14:35:00,Financeiro,Urgente,WhatsApp,Agente 2,Resolvido,Não,8.08,36.98,4
+TKT-1321,2024-03-24 15:59:00,Financeiro,Média,Telefone,Agente 3,Resolvido,Sim,0.79,0.79,5
+TKT-1322,2024-01-04 08:00:00,Cadastro,Alta,WhatsApp,Joana Cardoso,Resolvido,Não,19.57,46.2,4
+TKT-1323,2024-03-02 08:40:00,Financeiro,Baixa,E-mail,Agente 2,Resolvido,Sim,0.53,0.53,3
+TKT-1324,2024-02-25 16:57:00,Financeiro,Média,Telefone,Joana Cardoso,Resolvido,Não,3.75,45.69,2
+TKT-1325,2024-01-05 15:57:00,Acesso,Alta,Chat,Agente 3,Fechado,Sim,0.73,0.73,3
+TKT-1326,2024-01-13 10:35:00,Acesso,Baixa,E-mail,Agente 3,Resolvido,Sim,0.31,0.31,1
+TKT-1327,2024-01-14 11:19:00,Acesso,Urgente,Chat,Joana Cardoso,Resolvido,Sim,1.74,1.74,1
+TKT-1328,2024-02-13 16:25:00,Dúvida de Uso,Baixa,Telefone,Agente 2,Fechado,Não,13.38,27.28,1
+TKT-1329,2024-02-22 08:16:00,Acesso,Média,Chat,Joana Cardoso,Pendente,Sim,1.21,1.21,2
+TKT-1330,2024-02-19 11:29:00,Acesso,Urgente,WhatsApp,Agente 3,Fechado,Não,11.91,27.57,3
+TKT-1331,2024-03-27 13:14:00,Cadastro,Alta,E-mail,Agente 2,Resolvido,Sim,0.51,0.51,3
+TKT-1332,2024-01-30 12:07:00,Cadastro,Alta,Chat,Agente 2,Pendente,Sim,0.11,0.11,4
+TKT-1333,2024-01-30 10:38:00,Cadastro,Média,Telefone,Agente 3,Fechado,Não,3.06,21.02,3
+TKT-1334,2024-02-14 18:00:00,Acesso,Urgente,Chat,Agente 3,Resolvido,Sim,1.66,1.66,2
+TKT-1335,2024-02-28 13:21:00,Cadastro,Urgente,E-mail,Agente 2,Resolvido,Sim,0.82,0.82,1
+TKT-1336,2024-01-12 08:39:00,Acesso,Alta,WhatsApp,Agente 2,Resolvido,Não,14.91,55.74,2
+TKT-1337,2024-03-13 09:02:00,Dúvida de Uso,Baixa,Chat,Agente 3,Fechado,Sim,1.01,1.01,5
+TKT-1338,2024-01-17 14:09:00,Financeiro,Alta,WhatsApp,Agente 2,Resolvido,Sim,1.17,1.17,3
+TKT-1339,2024-01-20 16:17:00,Erro de Sistema,Urgente,E-mail,Joana Cardoso,Resolvido,Sim,1.46,1.46,2
+TKT-1340,2024-02-10 10:33:00,Erro de Sistema,Baixa,WhatsApp,Agente 2,Resolvido,Sim,0.44,0.44,2
+TKT-1341,2024-01-16 14:44:00,Financeiro,Urgente,E-mail,Agente 2,Resolvido,Sim,0.69,0.69,4
+TKT-1342,2024-01-17 11:26:00,Erro de Sistema,Baixa,Chat,Joana Cardoso,Fechado,Sim,0.5,0.5,1
+TKT-1343,2024-01-21 14:47:00,Dúvida de Uso,Baixa,WhatsApp,Agente 2,Resolvido,Sim,0.62,0.62,2
+TKT-1344,2024-01-01 14:06:00,Cadastro,Média,Telefone,Agente 3,Resolvido,Sim,1.53,1.53,3
+TKT-1345,2024-01-26 11:05:00,Cadastro,Alta,Chat,Joana Cardoso,Resolvido,Sim,1.47,1.47,3
+TKT-1346,2024-02-13 13:58:00,Cadastro,Alta,Chat,Joana Cardoso,Pendente,Sim,1.36,1.36,5
+TKT-1347,2024-03-17 17:30:00,Erro de Sistema,Alta,Telefone,Agente 2,Fechado,Sim,1.4,1.4,4
+TKT-1348,2024-02-17 18:50:00,Cadastro,Baixa,E-mail,Joana Cardoso,Pendente,Sim,0.64,0.64,5
+TKT-1349,2024-02-17 14:40:00,Financeiro,Alta,E-mail,Agente 2,Resolvido,Não,2.11,44.01,4
+TKT-1350,2024-03-29 13:11:00,Dúvida de Uso,Urgente,Chat,Joana Cardoso,Pendente,Sim,1.12,1.12,3
+TKT-1351,2024-02-23 10:28:00,Cadastro,Urgente,Chat,Agente 2,Fechado,Não,21.18,47.1,1
+TKT-1352,2024-01-08 08:15:00,Erro de Sistema,Urgente,Telefone,Agente 2,Pendente,Não,14.88,18.88,5
+TKT-1353,2024-02-12 11:21:00,Financeiro,Média,E-mail,Agente 3,Resolvido,Sim,0.39,0.39,1
+TKT-1354,2024-01-21 09:20:00,Financeiro,Baixa,WhatsApp,Agente 3,Fechado,Sim,1.43,1.43,5
+TKT-1355,2024-03-11 11:50:00,Dúvida de Uso,Urgente,Telefone,Joana Cardoso,Resolvido,Sim,0.76,0.76,2
+TKT-1356,2024-03-25 14:40:00,Dúvida de Uso,Alta,Telefone,Joana Cardoso,Fechado,Não,19.29,21.31,4
+TKT-1357,2024-03-28 14:52:00,Acesso,Alta,WhatsApp,Agente 2,Pendente,Sim,1.31,1.31,3
+TKT-1358,2024-02-02 10:26:00,Cadastro,Média,Telefone,Joana Cardoso,Fechado,Não,23.77,35.29,1
+TKT-1359,2024-03-12 18:45:00,Dúvida de Uso,Baixa,E-mail,Agente 2,Resolvido,Sim,1.77,1.77,5
+TKT-1360,2024-02-07 09:26:00,Cadastro,Baixa,WhatsApp,Agente 3,Fechado,Sim,0.63,0.63,2
+TKT-1361,2024-01-30 10:25:00,Financeiro,Urgente,Chat,Agente 2,Fechado,Não,14.83,20.63,4
+TKT-1362,2024-02-24 15:59:00,Dúvida de Uso,Média,E-mail,Agente 2,Fechado,Sim,1.68,1.68,4
+TKT-1363,2024-02-24 12:58:00,Financeiro,Urgente,E-mail,Joana Cardoso,Pendente,Não,13.38,23.69,5
+TKT-1364,2024-03-16 12:35:00,Acesso,Urgente,WhatsApp,Agente 3,Resolvido,Sim,1.59,1.59,4
+TKT-1365,2024-02-16 16:02:00,Dúvida de Uso,Média,Telefone,Agente 3,Pendente,Sim,0.28,0.28,4
+TKT-1366,2024-03-30 13:36:00,Dúvida de Uso,Alta,WhatsApp,Joana Cardoso,Pendente,Sim,0.97,0.97,2
+TKT-1367,2024-02-24 13:08:00,Erro de Sistema,Baixa,WhatsApp,Agente 3,Fechado,Sim,1.78,1.78,3
+TKT-1368,2024-02-02 13:53:00,Cadastro,Alta,Telefone,Agente 3,Pendente,Sim,1.61,1.61,1
+TKT-1369,2024-01-20 17:57:00,Cadastro,Alta,E-mail,Joana Cardoso,Pendente,Sim,0.67,0.67,3
+TKT-1370,2024-03-14 14:18:00,Financeiro,Média,WhatsApp,Agente 2,Fechado,Sim,1.5,1.5,1
+TKT-1371,2024-02-07 14:28:00,Financeiro,Urgente,E-mail,Agente 2,Fechado,Não,13.52,16.54,5
+TKT-1372,2024-02-24 13:12:00,Acesso,Média,Telefone,Agente 2,Resolvido,Sim,0.51,0.51,5
+TKT-1373,2024-03-15 15:56:00,Dúvida de Uso,Baixa,Telefone,Agente 3,Resolvido,Sim,0.69,0.69,4
+TKT-1374,2024-01-03 16:35:00,Cadastro,Alta,WhatsApp,Joana Cardoso,Pendente,Não,11.28,57.32,2
+TKT-1375,2024-01-02 17:56:00,Acesso,Urgente,WhatsApp,Joana Cardoso,Pendente,Não,7.85,25.39,1
+TKT-1376,2024-02-24 11:35:00,Dúvida de Uso,Alta,WhatsApp,Agente 2,Resolvido,Sim,0.85,0.85,3
+TKT-1377,2024-02-25 17:36:00,Acesso,Média,Chat,Agente 3,Fechado,Sim,0.11,0.11,1
+TKT-1378,2024-02-21 08:29:00,Dúvida de Uso,Urgente,E-mail,Joana Cardoso,Resolvido,Sim,1.96,1.96,4
+TKT-1379,2024-01-22 09:08:00,Cadastro,Urgente,Chat,Agente 3,Pendente,Sim,1.08,1.08,5
+TKT-1380,2024-02-29 18:25:00,Dúvida de Uso,Baixa,WhatsApp,Agente 3,Resolvido,Sim,1.2,1.2,2
+TKT-1381,2024-01-03 13:08:00,Dúvida de Uso,Baixa,WhatsApp,Joana Cardoso,Pendente,Não,10.79,50.4,4
+TKT-1382,2024-02-24 13:53:00,Acesso,Média,Telefone,Agente 3,Pendente,Sim,1.08,1.08,1
+TKT-1383,2024-02-09 15:01:00,Cadastro,Baixa,E-mail,Joana Cardoso,Fechado,Não,4.25,4.96,1
+TKT-1384,2024-02-05 11:40:00,Acesso,Baixa,E-mail,Agente 2,Resolvido,Não,10.05,38.32,1
+TKT-1385,2024-02-03 12:47:00,Financeiro,Baixa,Chat,Agente 2,Pendente,Sim,1.45,1.45,3
+TKT-1386,2024-03-22 18:27:00,Dúvida de Uso,Média,E-mail,Agente 2,Resolvido,Não,21.02,55.75,1
+TKT-1387,2024-01-07 09:05:00,Erro de Sistema,Baixa,Chat,Agente 2,Fechado,Sim,1.7,1.7,4
+TKT-1388,2024-03-06 10:26:00,Erro de Sistema,Média,Telefone,Agente 3,Fechado,Sim,1.54,1.54,5
+TKT-1389,2024-03-07 18:41:00,Cadastro,Média,Chat,Agente 2,Pendente,Sim,0.42,0.42,1
+TKT-1390,2024-01-22 13:00:00,Dúvida de Uso,Alta,WhatsApp,Joana Cardoso,Fechado,Sim,0.44,0.44,3
+TKT-1391,2024-01-06 14:02:00,Cadastro,Média,Chat,Agente 3,Fechado,Sim,1.47,1.47,1
+TKT-1392,2024-03-25 08:28:00,Erro de Sistema,Alta,Telefone,Joana Cardoso,Fechado,Não,21.67,63.27,5
+TKT-1393,2024-02-17 10:56:00,Financeiro,Média,E-mail,Joana Cardoso,Pendente,Não,4.49,31.73,2
+TKT-1394,2024-01-14 15:15:00,Acesso,Baixa,WhatsApp,Joana Cardoso,Resolvido,Sim,1.04,1.04,4
+TKT-1395,2024-02-09 11:11:00,Dúvida de Uso,Baixa,WhatsApp,Agente 3,Pendente,Sim,1.38,1.38,5
+TKT-1396,2024-02-09 16:22:00,Acesso,Baixa,WhatsApp,Joana Cardoso,Resolvido,Sim,0.38,0.38,2
+TKT-1397,2024-02-08 16:39:00,Acesso,Alta,Chat,Joana Cardoso,Resolvido,Sim,1.04,1.04,5
+TKT-1398,2024-02-12 11:24:00,Cadastro,Urgente,Telefone,Joana Cardoso,Fechado,Não,9.56,30.62,2
+TKT-1399,2024-01-21 13:23:00,Cadastro,Alta,Telefone,Agente 3,Pendente,Sim,1.45,1.45,2
+TKT-1400,2024-03-29 15:43:00,Dúvida de Uso,Média,Chat,Agente 2,Fechado,Não,19.49,34.62,5
+TKT-1401,2024-02-04 10:03:00,Financeiro,Urgente,Chat,Agente 2,Fechado,Não,12.13,33.94,5
+TKT-1402,2024-01-26 08:04:00,Erro de Sistema,Urgente,Telefone,Agente 3,Pendente,Não,14.53,29.71,3
+TKT-1403,2024-02-26 10:00:00,Erro de Sistema,Média,WhatsApp,Joana Cardoso,Fechado,Não,23.09,68.97,5
+TKT-1404,2024-01-18 08:16:00,Cadastro,Urgente,Chat,Agente 2,Pendente,Sim,1.86,1.86,2
+TKT-1405,2024-03-15 11:15:00,Erro de Sistema,Baixa,E-mail,Agente 3,Resolvido,Sim,1.13,1.13,1
+TKT-1406,2024-03-04 09:38:00,Erro de Sistema,Alta,WhatsApp,Agente 3,Fechado,Não,10.23,28.41,2
+TKT-1407,2024-03-12 10:39:00,Cadastro,Baixa,Telefone,Agente 2,Resolvido,Sim,0.61,0.61,2
+TKT-1408,2024-02-13 13:18:00,Financeiro,Baixa,Chat,Joana Cardoso,Fechado,Sim,1.98,1.98,2
+TKT-1409,2024-02-15 09:56:00,Dúvida de Uso,Alta,Chat,Agente 3,Resolvido,Sim,1.03,1.03,3
+TKT-1410,2024-03-19 18:10:00,Cadastro,Urgente,E-mail,Agente 3,Pendente,Sim,0.95,0.95,3
+TKT-1411,2024-03-29 09:46:00,Erro de Sistema,Baixa,Chat,Agente 2,Resolvido,Não,17.7,61.87,1
+TKT-1412,2024-02-05 13:59:00,Cadastro,Alta,Chat,Agente 2,Resolvido,Sim,1.3,1.3,5
+TKT-1413,2024-03-28 12:21:00,Dúvida de Uso,Alta,E-mail,Agente 2,Resolvido,Sim,1.65,1.65,5
+TKT-1414,2024-02-21 14:44:00,Cadastro,Baixa,Telefone,Agente 2,Resolvido,Sim,1.02,1.02,2
+TKT-1415,2024-03-27 09:54:00,Financeiro,Média,Telefone,Agente 2,Pendente,Sim,1.19,1.19,3
+TKT-1416,2024-01-03 10:30:00,Erro de Sistema,Alta,E-mail,Joana Cardoso,Resolvido,Não,22.33,59.96,3
+TKT-1417,2024-01-13 14:44:00,Financeiro,Média,WhatsApp,Joana Cardoso,Fechado,Sim,0.62,0.62,2
+TKT-1418,2024-02-05 09:43:00,Acesso,Alta,E-mail,Joana Cardoso,Resolvido,Sim,1.25,1.25,2
+TKT-1419,2024-02-01 13:03:00,Financeiro,Alta,Telefone,Joana Cardoso,Fechado,Sim,0.82,0.82,4
+TKT-1420,2024-03-03 12:41:00,Dúvida de Uso,Baixa,Chat,Agente 3,Fechado,Sim,0.34,0.34,3
+TKT-1421,2024-02-17 08:39:00,Erro de Sistema,Média,Chat,Agente 2,Resolvido,Sim,1.55,1.55,1
+TKT-1422,2024-02-27 12:59:00,Cadastro,Baixa,Chat,Joana Cardoso,Pendente,Sim,0.45,0.45,4
+TKT-1423,2024-02-05 18:58:00,Acesso,Urgente,Chat,Joana Cardoso,Pendente,Sim,1.59,1.59,4
+TKT-1424,2024-03-13 10:26:00,Dúvida de Uso,Alta,WhatsApp,Agente 2,Fechado,Não,15.77,24.73,1
+TKT-1425,2024-03-03 14:36:00,Erro de Sistema,Média,E-mail,Agente 2,Resolvido,Sim,0.95,0.95,2
+TKT-1426,2024-03-12 08:22:00,Cadastro,Alta,E-mail,Agente 2,Resolvido,Sim,1.95,1.95,5
+TKT-1427,2024-02-06 10:17:00,Financeiro,Urgente,WhatsApp,Agente 3,Pendente,Sim,1.44,1.44,5
+TKT-1428,2024-02-04 16:32:00,Acesso,Baixa,Telefone,Joana Cardoso,Fechado,Sim,1.46,1.46,2
+TKT-1429,2024-02-04 15:38:00,Dúvida de Uso,Urgente,Telefone,Agente 3,Pendente,Não,15.67,50.67,2
+TKT-1430,2024-01-17 13:58:00,Financeiro,Baixa,Chat,Agente 3,Pendente,Sim,1.82,1.82,1
+TKT-1431,2024-03-15 08:38:00,Financeiro,Média,WhatsApp,Joana Cardoso,Pendente,Não,23.8,62.56,5
+TKT-1432,2024-01-11 08:55:00,Erro de Sistema,Baixa,Chat,Agente 2,Pendente,Não,8.93,17.21,1
+TKT-1433,2024-01-23 17:01:00,Acesso,Alta,Chat,Agente 2,Fechado,Sim,0.79,0.79,4
+TKT-1434,2024-03-23 18:09:00,Dúvida de Uso,Média,E-mail,Joana Cardoso,Pendente,Sim,0.72,0.72,5
+TKT-1435,2024-02-20 08:19:00,Cadastro,Urgente,Telefone,Agente 2,Fechado,Sim,1.0,1.0,5
+TKT-1436,2024-02-20 17:15:00,Dúvida de Uso,Média,Telefone,Agente 2,Pendente,Sim,0.48,0.48,4
+TKT-1437,2024-02-01 12:56:00,Cadastro,Baixa,Telefone,Agente 2,Pendente,Sim,0.88,0.88,4
+TKT-1438,2024-01-22 14:16:00,Acesso,Urgente,Chat,Agente 3,Fechado,Sim,1.32,1.32,1
+TKT-1439,2024-02-09 16:14:00,Cadastro,Média,E-mail,Joana Cardoso,Resolvido,Sim,1.99,1.99,5
+TKT-1440,2024-01-24 09:31:00,Financeiro,Urgente,Telefone,Agente 3,Resolvido,Não,16.41,41.27,1
+TKT-1441,2024-02-26 17:00:00,Cadastro,Urgente,Chat,Agente 2,Fechado,Não,7.29,14.37,4
+TKT-1442,2024-03-23 14:30:00,Financeiro,Alta,Telefone,Agente 2,Pendente,Não,2.26,49.73,1
+TKT-1443,2024-03-29 09:21:00,Cadastro,Baixa,E-mail,Agente 3,Pendente,Sim,0.17,0.17,3
+TKT-1444,2024-03-26 09:40:00,Dúvida de Uso,Alta,Telefone,Joana Cardoso,Fechado,Não,18.46,37.98,1
+TKT-1445,2024-02-29 08:16:00,Acesso,Média,E-mail,Agente 3,Fechado,Sim,0.69,0.69,4
+TKT-1446,2024-01-05 14:27:00,Dúvida de Uso,Média,Telefone,Joana Cardoso,Resolvido,Sim,1.89,1.89,1
+TKT-1447,2024-03-09 11:02:00,Cadastro,Urgente,E-mail,Agente 3,Resolvido,Sim,0.63,0.63,1
+TKT-1448,2024-02-05 16:10:00,Dúvida de Uso,Urgente,WhatsApp,Agente 2,Pendente,Sim,1.02,1.02,4
+TKT-1449,2024-01-02 13:07:00,Financeiro,Baixa,E-mail,Agente 3,Resolvido,Sim,1.7,1.7,2
+TKT-1450,2024-01-19 17:22:00,Financeiro,Alta,Telefone,Agente 2,Fechado,Não,20.44,63.36,3
+TKT-1451,2024-01-26 16:36:00,Acesso,Baixa,WhatsApp,Agente 3,Pendente,Sim,0.14,0.14,4
+TKT-1452,2024-01-23 15:54:00,Dúvida de Uso,Baixa,Chat,Joana Cardoso,Fechado,Sim,1.21,1.21,3
+TKT-1453,2024-01-04 14:29:00,Financeiro,Alta,E-mail,Agente 2,Fechado,Sim,0.79,0.79,4
+TKT-1454,2024-03-12 12:08:00,Acesso,Média,Telefone,Agente 2,Fechado,Sim,0.93,0.93,2
+TKT-1455,2024-03-06 14:05:00,Acesso,Média,Telefone,Joana Cardoso,Pendente,Não,5.98,40.2,4
+TKT-1456,2024-03-03 16:00:00,Erro de Sistema,Baixa,Telefone,Agente 3,Resolvido,Não,14.42,34.63,2
+TKT-1457,2024-01-25 12:37:00,Financeiro,Alta,Telefone,Agente 2,Pendente,Sim,1.41,1.41,4
+TKT-1458,2024-01-04 12:34:00,Financeiro,Alta,E-mail,Agente 3,Pendente,Sim,0.35,0.35,3
+TKT-1459,2024-03-11 08:57:00,Acesso,Urgente,E-mail,Agente 2,Pendente,Não,9.41,51.77,3
+TKT-1460,2024-01-28 12:44:00,Dúvida de Uso,Urgente,E-mail,Joana Cardoso,Fechado,Sim,1.43,1.43,2
+TKT-1461,2024-01-10 16:20:00,Cadastro,Baixa,Chat,Joana Cardoso,Fechado,Não,10.55,56.69,1
+TKT-1462,2024-02-27 17:46:00,Cadastro,Média,E-mail,Joana Cardoso,Pendente,Sim,0.63,0.63,5
+TKT-1463,2024-01-13 08:21:00,Financeiro,Média,WhatsApp,Agente 2,Fechado,Sim,1.76,1.76,1
+TKT-1464,2024-02-09 15:28:00,Financeiro,Média,Telefone,Agente 3,Resolvido,Sim,1.72,1.72,4
+TKT-1465,2024-01-08 14:54:00,Dúvida de Uso,Baixa,Telefone,Agente 3,Fechado,Não,12.27,33.62,2
+TKT-1466,2024-02-09 18:01:00,Dúvida de Uso,Urgente,WhatsApp,Agente 3,Fechado,Sim,1.45,1.45,3
+TKT-1467,2024-02-25 16:00:00,Erro de Sistema,Média,Chat,Joana Cardoso,Pendente,Sim,1.19,1.19,2
+TKT-1468,2024-01-09 11:19:00,Cadastro,Baixa,E-mail,Joana Cardoso,Fechado,Não,22.54,57.54,5
+TKT-1469,2024-03-19 15:07:00,Cadastro,Urgente,Telefone,Joana Cardoso,Fechado,Não,3.92,51.71,2
+TKT-1470,2024-01-31 08:50:00,Financeiro,Urgente,WhatsApp,Joana Cardoso,Fechado,Não,17.54,50.01,2
+TKT-1471,2024-03-24 08:59:00,Financeiro,Média,Telefone,Agente 3,Resolvido,Não,7.19,40.37,5
+TKT-1472,2024-02-20 12:40:00,Dúvida de Uso,Urgente,Chat,Agente 2,Pendente,Sim,1.88,1.88,3
+TKT-1473,2024-03-01 13:34:00,Erro de Sistema,Baixa,Telefone,Joana Cardoso,Resolvido,Sim,1.29,1.29,1
+TKT-1474,2024-03-01 11:37:00,Financeiro,Média,E-mail,Joana Cardoso,Pendente,Sim,0.33,0.33,5
+TKT-1475,2024-02-07 17:12:00,Acesso,Média,Telefone,Agente 2,Pendente,Sim,0.54,0.54,4
+TKT-1476,2024-02-01 09:44:00,Cadastro,Alta,Telefone,Agente 2,Resolvido,Sim,0.86,0.86,2
+TKT-1477,2024-01-09 13:37:00,Cadastro,Baixa,WhatsApp,Joana Cardoso,Resolvido,Sim,0.3,0.3,4
+TKT-1478,2024-02-06 16:20:00,Financeiro,Baixa,Telefone,Agente 2,Resolvido,Sim,0.28,0.28,3
+TKT-1479,2024-03-22 09:47:00,Dúvida de Uso,Alta,WhatsApp,Agente 3,Fechado,Sim,1.1,1.1,5
+TKT-1480,2024-03-31 09:49:00,Acesso,Média,E-mail,Agente 3,Fechado,Sim,1.56,1.56,2
+TKT-1481,2024-02-23 18:20:00,Dúvida de Uso,Baixa,Telefone,Agente 2,Resolvido,Sim,0.51,0.51,3
+TKT-1482,2024-02-06 08:34:00,Financeiro,Alta,WhatsApp,Agente 3,Pendente,Não,6.68,24.24,4
+TKT-1483,2024-01-26 14:37:00,Financeiro,Baixa,E-mail,Agente 3,Pendente,Sim,0.93,0.93,4
+TKT-1484,2024-03-16 16:12:00,Dúvida de Uso,Baixa,Telefone,Agente 2,Pendente,Sim,0.84,0.84,5
+TKT-1485,2024-03-14 18:22:00,Financeiro,Urgente,Chat,Joana Cardoso,Resolvido,Sim,0.45,0.45,1
+TKT-1486,2024-01-08 13:41:00,Financeiro,Média,Telefone,Agente 3,Resolvido,Não,3.04,26.76,3
+TKT-1487,2024-03-01 16:48:00,Dúvida de Uso,Média,Telefone,Joana Cardoso,Fechado,Sim,1.81,1.81,4
+TKT-1488,2024-02-04 12:51:00,Acesso,Baixa,E-mail,Agente 2,Resolvido,Sim,0.74,0.74,3
+TKT-1489,2024-03-02 17:24:00,Acesso,Média,Chat,Joana Cardoso,Fechado,Sim,1.58,1.58,3
+TKT-1490,2024-03-26 11:06:00,Financeiro,Média,Telefone,Agente 3,Pendente,Sim,1.88,1.88,4
+TKT-1491,2024-02-19 11:02:00,Dúvida de Uso,Alta,Telefone,Joana Cardoso,Resolvido,Sim,0.41,0.41,3
+TKT-1492,2024-01-09 09:55:00,Acesso,Urgente,Telefone,Agente 3,Resolvido,Sim,0.94,0.94,3
+TKT-1493,2024-03-03 08:20:00,Financeiro,Urgente,Telefone,Agente 3,Resolvido,Não,10.37,16.7,5
+TKT-1494,2024-03-05 15:38:00,Financeiro,Alta,WhatsApp,Agente 3,Pendente,Não,18.57,47.3,1
+TKT-1495,2024-02-04 15:07:00,Dúvida de Uso,Baixa,Telefone,Agente 2,Pendente,Sim,0.37,0.37,5
+TKT-1496,2024-01-17 17:32:00,Financeiro,Baixa,WhatsApp,Agente 3,Pendente,Não,2.1,17.8,3
+TKT-1497,2024-01-24 10:15:00,Financeiro,Baixa,Chat,Joana Cardoso,Pendente,Não,2.97,50.13,4
+TKT-1498,2024-03-17 09:32:00,Financeiro,Urgente,WhatsApp,Agente 3,Pendente,Sim,0.56,0.56,5
+TKT-1499,2024-02-08 10:11:00,Erro de Sistema,Média,WhatsApp,Agente 2,Resolvido,Sim,0.76,0.76,2
